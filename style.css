@@ -6,12 +6,12 @@ body{
     justify-content: center;
     min-height: 100vh;
 }
-@media screen and (max-width: 375px){
+@media screen and (max-width: 768px){
     .hello{
         max-width: 350px;
     } 
 }
-@media screen and (min-width: 375px) {
+@media screen and (min-width: 768px) {
     .hello {
         max-width: 900px;
         height: 400px;
